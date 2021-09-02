@@ -1,7 +1,7 @@
 # Prandtl-Finite-Wing-Formulation  
-Numerical solution for prandtl's lifting line theory is provided for Elliptical wing, Rectangular wing, Tapered Wing of taper ratio of 2:1 as well as 3:1  
+Numerical solution using prandtl's lifting line theory is provided for Elliptical wing, Rectangular wing, Tapered Wing of taper ratio of 2:1 as well as 3:1  
 Bound Circulation is calculated in each case using Fourier series and plotted against the span   
-Incase of Elliptical wing the numrical soltion is compared with the theoritical solution (analytical solution)  
+Incase of Elliptical wing the numerical soltion is compared with the theoritical solution (analytical solution)  
 Rectagular wing and tapered wings are solved for two cases, when the wing is divided into 40 segments and when divided into 20 segments  
   
 # Inferences
